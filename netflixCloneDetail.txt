@@ -1,0 +1,45 @@
+d7695a828fd4653146f5f0be410a47a1
+
+
+https://netflix-movies-app.web.app
+https://console.firebase.google.com/project/netflix-movies-app/overview
+
+
+
+https://api.themoviedb.org/3/movie/550?api_key=d7695a828fd4653146f5f0be410a47a1
+
+
+
+
+
+
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkNzY5NWE4MjhmZDQ2NTMxNDZmNWYwYmU0MTBhNDdhMSIsInN1YiI6IjVmZWM0ZWNjNWFkNzZiMDAzYWNkMjNjZCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.BszzuKn_VkJcZE-IDyTQTPktDw0zlWLPdxmyl4rGWlM
+
+
+
+
+firebase login
+
+firebase init
+
+firebase deploy
+
+firebase login
+firebase init
+firebase deploy
+
+
+  https://cra.link/deployment
+
+
+
+
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="/__/firebase/8.2.1/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+<script src="/__/firebase/8.2.1/firebase-analytics.js"></script>
+
+<!-- Initialize Firebase -->
+<script src="/__/firebase/init.js"></script>
